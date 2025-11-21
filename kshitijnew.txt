@@ -1,8 +1,0 @@
-<<<<<<< HEAD
-this is latest branch
-=======
-this is latest branch
-
-
-this is new line
->>>>>>> 30eada52210d011bde76f96504dd671d1abe8812
