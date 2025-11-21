@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 demo
+=======
+>>>>>>> 30eada52210d011bde76f96504dd671d1abe8812
 rfibeibfriebrf
 democcsdcsdc
